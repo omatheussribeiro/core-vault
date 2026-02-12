@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CoreVault.Api/CoreVault.Api.csproj" />
+    <Project Path="src/CoreVault.Application/CoreVault.Application.csproj" Id="4bd1607e-5d63-43dd-8e31-998003f08317" />
+    <Project Path="src/CoreVault.Domain/CoreVault.Domain.csproj" Id="1e24b1c6-05ec-46cf-9c2e-33b5ea392259" />
+    <Project Path="src/CoreVault.Infrastructure/CoreVault.Infrastructure.csproj" Id="0632e17d-a78c-4367-b239-1625bee77c6a" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CoreVault.IntegrationTests/CoreVault.IntegrationTests.csproj" Id="85c4c1e6-6a7c-4f3a-8bf6-131d089fecca" />
+    <Project Path="tests/CoreVault.UnitTests/CoreVault.UnitTests.csproj" Id="ed46ab4e-20ff-43d0-a1f4-39fc19cd6dc8" />
+  </Folder>
+</Solution>
